@@ -35,4 +35,4 @@ This is a simple quiz application built using JavaScript, HTML, and CSS. It allo
 This project is perfect for beginners looking to practice JavaScript event handling and DOM manipulation. It can be expanded further with features like a timer, score tracking, or a database for dynamic question loading. 🚀
 
 OUTPUT
-
+![Image](https://github.com/user-attachments/assets/85af27b9-9266-4e74-9eb1-ed1e0599bfa0)
